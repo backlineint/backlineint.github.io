@@ -10,11 +10,11 @@ title:            Brian Perry
 tagline:          'Web Developer'
 description:      'Web Developer'
 url:              https://backlineint.github.io
-baseurl:          /bp_interactive/
+baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Brian Perry'
+  url:            https://twitter.com/bricomedy
 
 paginate:         5
 
@@ -22,6 +22,6 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/backlineint/backlineint.github.io
 
 gems: [jekyll-paginate, jekyll-gist]
