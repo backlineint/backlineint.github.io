@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Brian Perry
 tagline:          'Web Developer'
 description:      'Web Developer'
-url:              http://hyde.getpoole.com
-baseurl:          /
+url:              https://backlineint.github.io
+baseurl:          /bp_interactive
 
 author:
   name:           'Mark Otto'
