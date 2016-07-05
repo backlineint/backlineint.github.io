@@ -10,7 +10,7 @@ title:            Brian Perry
 tagline:          'Web Developer'
 description:      'Web Developer'
 url:              https://backlineint.github.io
-baseurl:          /bp_interactive
+baseurl:          /bp_interactive/
 
 author:
   name:           'Mark Otto'
