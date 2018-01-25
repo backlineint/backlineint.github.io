@@ -1,40 +1,48 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-66a5f178f590317eef32.js",
-      "component---src-pages-index-js-66a5f178f590317eef32.js.map"
+      "component---src-pages-index-js-da1ef5dfa5bed6765142.js",
+      "component---src-pages-index-js-da1ef5dfa5bed6765142.js.map"
+    ],
+    "component---src-templates-link-js": [
+      "component---src-templates-link-js-863e74a5b73b1da5f209.js",
+      "component---src-templates-link-js-863e74a5b73b1da5f209.js.map"
     ],
     "path---": [
       "path----70dd073fc245471edf3c.js",
       "path----70dd073fc245471edf3c.js.map"
     ],
+    "path---post-building-something-from-nothing": [
+      "path---post-building-something-from-nothing-52a92225dd247bd549cd.js",
+      "path---post-building-something-from-nothing-52a92225dd247bd549cd.js.map"
+    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-34358ef08283c66c2497.js",
-      "component---src-layouts-index-js-34358ef08283c66c2497.js.map"
+      "component---src-layouts-index-js-af833b24cad08bf82d6f.js",
+      "component---src-layouts-index-js-af833b24cad08bf82d6f.js.map"
     ],
     "path---index": [
-      "path---index-897b2ae4b2b75e354941.js",
-      "path---index-897b2ae4b2b75e354941.js.map"
+      "path---index-3190171332556bccf998.js",
+      "path---index-3190171332556bccf998.js.map"
+    ],
+    "path---link-nintendo-labo": [
+      "path---link-nintendo-labo-b6c7c9c78709f7d8e5d1.js",
+      "path---link-nintendo-labo-b6c7c9c78709f7d8e5d1.js.map"
     ],
     "commons": [
-      "commons-b11863e443244195c08e.js",
-      "commons-b11863e443244195c08e.js.map"
+      "commons-247ab1d8e87f3769109b.js",
+      "commons-247ab1d8e87f3769109b.js.map"
     ],
     "component---src-templates-post-js": [
-      "component---src-templates-post-js-207cc62f1ff4659648d9.js",
-      "component---src-templates-post-js-207cc62f1ff4659648d9.js.map"
+      "component---src-templates-post-js-a843bf1d9b2c08fb72af.js",
+      "component---src-templates-post-js-a843bf1d9b2c08fb72af.js.map"
     ],
     "app": [
-      "app-3bce6457b42e22bdb730.js",
-      "app-3bce6457b42e22bdb730.js.map"
+      "app-0291aa02828de40c8ab0.js",
+      "app-0291aa02828de40c8ab0.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-e25bcd9aa45db46544f9.js",
-      "component---src-pages-about-js-e25bcd9aa45db46544f9.js.map"
-    ],
-    "path---building-something-from-nothing": [
-      "path---building-something-from-nothing-34217255a813a1606d2c.js",
-      "path---building-something-from-nothing-34217255a813a1606d2c.js.map"
+      "component---src-pages-about-js-3c3fe1162bd97a67db0f.js",
+      "component---src-pages-about-js-3c3fe1162bd97a67db0f.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
