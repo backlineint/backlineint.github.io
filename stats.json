@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-8e6abd139a2072e39ad6.js",
-      "component---src-pages-index-js-8e6abd139a2072e39ad6.js.map"
+      "component---src-pages-index-js-4c7df32fc0f7736c3f71.js",
+      "component---src-pages-index-js-4c7df32fc0f7736c3f71.js.map"
     ],
     "component---src-templates-link-js": [
-      "component---src-templates-link-js-45e4e6e736ce8d8c7919.js",
-      "component---src-templates-link-js-45e4e6e736ce8d8c7919.js.map"
+      "component---src-templates-link-js-1fa61df97c4e501b8621.js",
+      "component---src-templates-link-js-1fa61df97c4e501b8621.js.map"
     ],
     "path---": [
       "path----70dd073fc245471edf3c.js",
@@ -17,12 +17,12 @@
       "path---post-building-something-from-nothing-52a92225dd247bd549cd.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-5c8754bf4456f370db43.js",
-      "component---src-layouts-index-js-5c8754bf4456f370db43.js.map"
+      "component---src-layouts-index-js-fbe43483242922d34a66.js",
+      "component---src-layouts-index-js-fbe43483242922d34a66.js.map"
     ],
     "path---index": [
-      "path---index-7f9ecab42e9c26785869.js",
-      "path---index-7f9ecab42e9c26785869.js.map"
+      "path---index-5472d8776f3fec784065.js",
+      "path---index-5472d8776f3fec784065.js.map"
     ],
     "path---link-nintendo-labo": [
       "path---link-nintendo-labo-b6c7c9c78709f7d8e5d1.js",
@@ -33,16 +33,20 @@
       "commons-247ab1d8e87f3769109b.js.map"
     ],
     "component---src-templates-post-js": [
-      "component---src-templates-post-js-880c862dfdaf2091e054.js",
-      "component---src-templates-post-js-880c862dfdaf2091e054.js.map"
+      "component---src-templates-post-js-8299abe76713af25d30b.js",
+      "component---src-templates-post-js-8299abe76713af25d30b.js.map"
     ],
     "app": [
-      "app-af8e4d67236746e00360.js",
-      "app-af8e4d67236746e00360.js.map"
+      "app-18abfe0f935a4b189347.js",
+      "app-18abfe0f935a4b189347.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-b0333d50c2b4d04ce0a4.js",
-      "component---src-pages-about-js-b0333d50c2b4d04ce0a4.js.map"
+      "component---src-pages-about-js-3eddf0943e866ce1f45a.js",
+      "component---src-pages-about-js-3eddf0943e866ce1f45a.js.map"
+    ],
+    "path---post-drupalcon-nashville-session-proposals": [
+      "path---post-drupalcon-nashville-session-proposals-3ffffb0c34637ec38ef0.js",
+      "path---post-drupalcon-nashville-session-proposals-3ffffb0c34637ec38ef0.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
