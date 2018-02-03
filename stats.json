@@ -1,12 +1,16 @@
 {
   "assetsByChunkName": {
-    "component---src-pages-index-js": [
-      "component---src-pages-index-js-4c7df32fc0f7736c3f71.js",
-      "component---src-pages-index-js-4c7df32fc0f7736c3f71.js.map"
+    "component---src-templates-note-js": [
+      "component---src-templates-note-js-360e6fcd94b3306806e1.js",
+      "component---src-templates-note-js-360e6fcd94b3306806e1.js.map"
     ],
-    "component---src-templates-link-js": [
-      "component---src-templates-link-js-1fa61df97c4e501b8621.js",
-      "component---src-templates-link-js-1fa61df97c4e501b8621.js.map"
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-e484f966ef74618d6181.js",
+      "component---src-pages-index-js-e484f966ef74618d6181.js.map"
+    ],
+    "path---note-note-celeste-is-awesome": [
+      "path---note-note-celeste-is-awesome-af87dfd63e89cc558ea3.js",
+      "path---note-note-celeste-is-awesome-af87dfd63e89cc558ea3.js.map"
     ],
     "path---": [
       "path----70dd073fc245471edf3c.js",
@@ -21,12 +25,12 @@
       "component---src-layouts-index-js-fbe43483242922d34a66.js.map"
     ],
     "path---index": [
-      "path---index-5472d8776f3fec784065.js",
-      "path---index-5472d8776f3fec784065.js.map"
+      "path---index-6d3af531ad67c0fda3b5.js",
+      "path---index-6d3af531ad67c0fda3b5.js.map"
     ],
     "path---link-nintendo-labo": [
-      "path---link-nintendo-labo-b6c7c9c78709f7d8e5d1.js",
-      "path---link-nintendo-labo-b6c7c9c78709f7d8e5d1.js.map"
+      "path---link-nintendo-labo-9b34be1b3167bb5d7c36.js",
+      "path---link-nintendo-labo-9b34be1b3167bb5d7c36.js.map"
     ],
     "commons": [
       "commons-247ab1d8e87f3769109b.js",
@@ -37,8 +41,8 @@
       "component---src-templates-post-js-8299abe76713af25d30b.js.map"
     ],
     "app": [
-      "app-18abfe0f935a4b189347.js",
-      "app-18abfe0f935a4b189347.js.map"
+      "app-8489afa41689e436362a.js",
+      "app-8489afa41689e436362a.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-3eddf0943e866ce1f45a.js",
