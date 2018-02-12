@@ -32,9 +32,13 @@
       "component---src-layouts-index-js-8c8f8d1d88d498ba669b.js",
       "component---src-layouts-index-js-8c8f8d1d88d498ba669b.js.map"
     ],
+    "path---link-designer-oriented-styles-james-kyle": [
+      "path---link-designer-oriented-styles-james-kyle-e87052bd75d3fcea1294.js",
+      "path---link-designer-oriented-styles-james-kyle-e87052bd75d3fcea1294.js.map"
+    ],
     "path---index": [
-      "path---index-3292575a30d9fa9f31fe.js",
-      "path---index-3292575a30d9fa9f31fe.js.map"
+      "path---index-ebfb96d5f9be9ae835ce.js",
+      "path---index-ebfb96d5f9be9ae835ce.js.map"
     ],
     "path---link-nintendo-labo": [
       "path---link-nintendo-labo-b6c7c9c78709f7d8e5d1.js",
@@ -49,8 +53,8 @@
       "component---src-templates-post-js-85b172ae79f37d641d8d.js.map"
     ],
     "app": [
-      "app-0601c5ad9760cc096d0d.js",
-      "app-0601c5ad9760cc096d0d.js.map"
+      "app-de323936c44d67cc0663.js",
+      "app-de323936c44d67cc0663.js.map"
     ],
     "path---post-midcamp-needs-your-help": [
       "path---post-midcamp-needs-your-help-607eea049a366743d663.js",
