@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "path---link-shop-talk-show-303-jam-stack-with-phil-hawksworth": [
+      "path---link-shop-talk-show-303-jam-stack-with-phil-hawksworth-a2a60b37780966ec75dc.js",
+      "path---link-shop-talk-show-303-jam-stack-with-phil-hawksworth-a2a60b37780966ec75dc.js.map"
+    ],
     "path---link-io-west-is-shutting-down-next-week-splitsider": [
       "path---link-io-west-is-shutting-down-next-week-splitsider-2fed156764a9811f3fa4.js",
       "path---link-io-west-is-shutting-down-next-week-splitsider-2fed156764a9811f3fa4.js.map"
@@ -61,8 +65,8 @@
       "path---post-middle-end-developer-c8ed59c3d207790d6d3d.js.map"
     ],
     "path---index": [
-      "path---index-ef65a36fe41bda8900e5.js",
-      "path---index-ef65a36fe41bda8900e5.js.map"
+      "path---index-8c3027f49eb7945f739e.js",
+      "path---index-8c3027f49eb7945f739e.js.map"
     ],
     "path---note-jquery-and-drupal-8-4-upgrades": [
       "path---note-jquery-and-drupal-8-4-upgrades-58906e109dec2745c0db.js",
@@ -93,8 +97,8 @@
       "component---src-templates-post-js-8199314bf4dc34dc9914.js.map"
     ],
     "app": [
-      "app-a89bb6075f715a8cf0e6.js",
-      "app-a89bb6075f715a8cf0e6.js.map"
+      "app-be344b8e0c07ddf41635.js",
+      "app-be344b8e0c07ddf41635.js.map"
     ],
     "path---post-midcamp-needs-your-help": [
       "path---post-midcamp-needs-your-help-607eea049a366743d663.js",
