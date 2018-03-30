@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "path---note-drupal-8-5-and-security-updates": [
+      "path---note-drupal-8-5-and-security-updates-66b9b71d8bf26dcf1528.js",
+      "path---note-drupal-8-5-and-security-updates-66b9b71d8bf26dcf1528.js.map"
+    ],
     "path---link-shop-talk-show-303-jam-stack-with-phil-hawksworth": [
       "path---link-shop-talk-show-303-jam-stack-with-phil-hawksworth-a2a60b37780966ec75dc.js",
       "path---link-shop-talk-show-303-jam-stack-with-phil-hawksworth-a2a60b37780966ec75dc.js.map"
@@ -65,8 +69,8 @@
       "path---post-middle-end-developer-c8ed59c3d207790d6d3d.js.map"
     ],
     "path---index": [
-      "path---index-8c3027f49eb7945f739e.js",
-      "path---index-8c3027f49eb7945f739e.js.map"
+      "path---index-c2463c2b1be0133bb9db.js",
+      "path---index-c2463c2b1be0133bb9db.js.map"
     ],
     "path---note-jquery-and-drupal-8-4-upgrades": [
       "path---note-jquery-and-drupal-8-4-upgrades-58906e109dec2745c0db.js",
@@ -97,8 +101,8 @@
       "component---src-templates-post-js-8199314bf4dc34dc9914.js.map"
     ],
     "app": [
-      "app-be344b8e0c07ddf41635.js",
-      "app-be344b8e0c07ddf41635.js.map"
+      "app-d92843512193c92d8dba.js",
+      "app-d92843512193c92d8dba.js.map"
     ],
     "path---post-midcamp-needs-your-help": [
       "path---post-midcamp-needs-your-help-607eea049a366743d663.js",
