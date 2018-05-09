@@ -4,6 +4,10 @@
       "path---note-drupal-8-5-and-security-updates-9e0e729d631383b48a42.js",
       "path---note-drupal-8-5-and-security-updates-9e0e729d631383b48a42.js.map"
     ],
+    "path---note-recommended-pattern-lab-version-and-edition-for-drupal-integration": [
+      "path---note-recommended-pattern-lab-version-and-edition-for-drupal-integration-f9980e61e31becd32caa.js",
+      "path---note-recommended-pattern-lab-version-and-edition-for-drupal-integration-f9980e61e31becd32caa.js.map"
+    ],
     "path---link-shop-talk-show-303-jam-stack-with-phil-hawksworth": [
       "path---link-shop-talk-show-303-jam-stack-with-phil-hawksworth-a2a60b37780966ec75dc.js",
       "path---link-shop-talk-show-303-jam-stack-with-phil-hawksworth-a2a60b37780966ec75dc.js.map"
@@ -13,8 +17,8 @@
       "path---link-io-west-is-shutting-down-next-week-splitsider-2fed156764a9811f3fa4.js.map"
     ],
     "component---src-templates-note-js": [
-      "component---src-templates-note-js-13a8b75829949c2d9027.js",
-      "component---src-templates-note-js-13a8b75829949c2d9027.js.map"
+      "component---src-templates-note-js-e7e03ff40b447fdd232e.js",
+      "component---src-templates-note-js-e7e03ff40b447fdd232e.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-95d459c3d2dcb142cbb3.js",
@@ -29,8 +33,8 @@
       "path---link-to-pesos-or-to-posse-dries-buytaert-3cb18fdaf0b6303dfbe3.js.map"
     ],
     "component---src-templates-link-js": [
-      "component---src-templates-link-js-f78e3e9aa412e29644c6.js",
-      "component---src-templates-link-js-f78e3e9aa412e29644c6.js.map"
+      "component---src-templates-link-js-a70400de2ed53834f426.js",
+      "component---src-templates-link-js-a70400de2ed53834f426.js.map"
     ],
     "path---": [
       "path----70dd073fc245471edf3c.js",
@@ -53,8 +57,8 @@
       "path---note-css-tricks-rabbit-hole-bb0fa635448a38cf8df6.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-393cb7dc9e4f4e0621b0.js",
-      "component---src-layouts-index-js-393cb7dc9e4f4e0621b0.js.map"
+      "component---src-layouts-index-js-d6af097143e32c22c95c.js",
+      "component---src-layouts-index-js-d6af097143e32c22c95c.js.map"
     ],
     "path---link-designer-oriented-styles-james-kyle": [
       "path---link-designer-oriented-styles-james-kyle-e87052bd75d3fcea1294.js",
@@ -69,8 +73,8 @@
       "path---post-middle-end-developer-cc526bb6a17e44bde90a.js.map"
     ],
     "path---index": [
-      "path---index-bc75b7680177d37f0da9.js",
-      "path---index-bc75b7680177d37f0da9.js.map"
+      "path---index-d9be24fafccf53d5834a.js",
+      "path---index-d9be24fafccf53d5834a.js.map"
     ],
     "path---post-looking-forward-to-drupalcon-nashville": [
       "path---post-looking-forward-to-drupalcon-nashville-25b7175488bafb953727.js",
@@ -89,8 +93,8 @@
       "path---link-nintendo-labo-b6c7c9c78709f7d8e5d1.js.map"
     ],
     "commons": [
-      "commons-bd4d7557ac7ea0e5ac19.js",
-      "commons-bd4d7557ac7ea0e5ac19.js.map"
+      "commons-b824d731726764527a40.js",
+      "commons-b824d731726764527a40.js.map"
     ],
     "path---post-decoupled-drupal-dumb-problems-malformed-markup": [
       "path---post-decoupled-drupal-dumb-problems-malformed-markup-343dfb7def48af3203f2.js",
@@ -109,12 +113,12 @@
       "path---link-drupaleasy-podcast-205-fatima-khalid-first-time-sprinters-guide-cd4e9f987967bb7cb732.js.map"
     ],
     "component---src-templates-post-js": [
-      "component---src-templates-post-js-828d96437e25db0d881d.js",
-      "component---src-templates-post-js-828d96437e25db0d881d.js.map"
+      "component---src-templates-post-js-330eb50be798f05efaf7.js",
+      "component---src-templates-post-js-330eb50be798f05efaf7.js.map"
     ],
     "app": [
-      "app-f13d193aada5fb94e1d8.js",
-      "app-f13d193aada5fb94e1d8.js.map"
+      "app-5e09e520a4335aefa4ac.js",
+      "app-5e09e520a4335aefa4ac.js.map"
     ],
     "path---post-my-takeaways-from-drupalcon-nashville": [
       "path---post-my-takeaways-from-drupalcon-nashville-120a56403ab990b72d8b.js",
@@ -129,8 +133,8 @@
       "path---post-midcamp-needs-your-help-fc99d1708278456e9efe.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-eda737029c5ed9f5389c.js",
-      "component---src-pages-about-js-eda737029c5ed9f5389c.js.map"
+      "component---src-pages-about-js-44c2eb554c0187c94711.js",
+      "component---src-pages-about-js-44c2eb554c0187c94711.js.map"
     ],
     "path---note-celeste": [
       "path---note-celeste-e6d79948c936e1249a46.js",
