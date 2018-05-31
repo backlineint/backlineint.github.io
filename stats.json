@@ -21,8 +21,8 @@
       "component---src-templates-note-js-e7e03ff40b447fdd232e.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-1fcc270d3cb5e886fae4.js",
-      "component---src-pages-index-js-1fcc270d3cb5e886fae4.js.map"
+      "component---src-pages-index-js-5780d2ab41355e4de16d.js",
+      "component---src-pages-index-js-5780d2ab41355e4de16d.js.map"
     ],
     "path---link-heres-how-reacts-new-context-api-works-wes-bos": [
       "path---link-heres-how-reacts-new-context-api-works-wes-bos-eed055b704eab4a3d0ac.js",
@@ -77,8 +77,8 @@
       "path---post-middle-end-developer-cc526bb6a17e44bde90a.js.map"
     ],
     "path---index": [
-      "path---index-20a642ddf5eade334a3b.js",
-      "path---index-20a642ddf5eade334a3b.js.map"
+      "path---index-286e969eb6a12435b94c.js",
+      "path---index-286e969eb6a12435b94c.js.map"
     ],
     "path---link-rss-feed": [
       "path---link-rss-feed-3264466d247454acfdf1.js",
@@ -108,6 +108,10 @@
       "path---post-decoupled-drupal-dumb-problems-malformed-markup-343dfb7def48af3203f2.js",
       "path---post-decoupled-drupal-dumb-problems-malformed-markup-343dfb7def48af3203f2.js.map"
     ],
+    "path---post-ui-patterns-pattern-lab-and-a-call-for-help": [
+      "path---post-ui-patterns-pattern-lab-and-a-call-for-help-43d3eea14dd6a0ae2907.js",
+      "path---post-ui-patterns-pattern-lab-and-a-call-for-help-43d3eea14dd6a0ae2907.js.map"
+    ],
     "path---post-my-brief-unretirement-from-comedy": [
       "path---post-my-brief-unretirement-from-comedy-8d930bb9151749c1178e.js",
       "path---post-my-brief-unretirement-from-comedy-8d930bb9151749c1178e.js.map"
@@ -125,8 +129,8 @@
       "component---src-templates-post-js-330eb50be798f05efaf7.js.map"
     ],
     "app": [
-      "app-d103fc1d76297ebbf213.js",
-      "app-d103fc1d76297ebbf213.js.map"
+      "app-63533f90d8f3b7990c25.js",
+      "app-63533f90d8f3b7990c25.js.map"
     ],
     "path---post-my-takeaways-from-drupalcon-nashville": [
       "path---post-my-takeaways-from-drupalcon-nashville-120a56403ab990b72d8b.js",
