@@ -61,8 +61,8 @@
       "path---note-css-tricks-rabbit-hole-bb0fa635448a38cf8df6.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-ca267b9d5bc36f7f2356.js",
-      "component---src-layouts-index-js-ca267b9d5bc36f7f2356.js.map"
+      "component---src-layouts-index-js-c0c12dba9ecae226049c.js",
+      "component---src-layouts-index-js-c0c12dba9ecae226049c.js.map"
     ],
     "path---link-designer-oriented-styles-james-kyle": [
       "path---link-designer-oriented-styles-james-kyle-e87052bd75d3fcea1294.js",
@@ -77,8 +77,8 @@
       "path---post-middle-end-developer-cc526bb6a17e44bde90a.js.map"
     ],
     "path---index": [
-      "path---index-286e969eb6a12435b94c.js",
-      "path---index-286e969eb6a12435b94c.js.map"
+      "path---index-4c39eb4e7dfe542efa9a.js",
+      "path---index-4c39eb4e7dfe542efa9a.js.map"
     ],
     "path---link-rss-feed": [
       "path---link-rss-feed-3264466d247454acfdf1.js",
@@ -108,6 +108,10 @@
       "path---post-decoupled-drupal-dumb-problems-malformed-markup-343dfb7def48af3203f2.js",
       "path---post-decoupled-drupal-dumb-problems-malformed-markup-343dfb7def48af3203f2.js.map"
     ],
+    "path---link-when-not-to-use-a-design-system-sparkbox": [
+      "path---link-when-not-to-use-a-design-system-sparkbox-4a655f4909d5a3e5a9c6.js",
+      "path---link-when-not-to-use-a-design-system-sparkbox-4a655f4909d5a3e5a9c6.js.map"
+    ],
     "path---post-ui-patterns-pattern-lab-and-a-call-for-help": [
       "path---post-ui-patterns-pattern-lab-and-a-call-for-help-43d3eea14dd6a0ae2907.js",
       "path---post-ui-patterns-pattern-lab-and-a-call-for-help-43d3eea14dd6a0ae2907.js.map"
@@ -129,8 +133,8 @@
       "component---src-templates-post-js-330eb50be798f05efaf7.js.map"
     ],
     "app": [
-      "app-63533f90d8f3b7990c25.js",
-      "app-63533f90d8f3b7990c25.js.map"
+      "app-c9d5ae7fe632d1fdb6f2.js",
+      "app-c9d5ae7fe632d1fdb6f2.js.map"
     ],
     "path---post-my-takeaways-from-drupalcon-nashville": [
       "path---post-my-takeaways-from-drupalcon-nashville-120a56403ab990b72d8b.js",
