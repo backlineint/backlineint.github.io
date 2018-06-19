@@ -52,6 +52,10 @@
       "path---post-building-something-from-nothing-27bba27c78ef49ef15da.js",
       "path---post-building-something-from-nothing-27bba27c78ef49ef15da.js.map"
     ],
+    "path---link-tome-a-drupal-8-static-site-generator": [
+      "path---link-tome-a-drupal-8-static-site-generator-180df97ede78770f94a6.js",
+      "path---link-tome-a-drupal-8-static-site-generator-180df97ede78770f94a6.js.map"
+    ],
     "path---link-my-struggle-to-learn-react-brad-frost": [
       "path---link-my-struggle-to-learn-react-brad-frost-d6b0b6abd3873d137cca.js",
       "path---link-my-struggle-to-learn-react-brad-frost-d6b0b6abd3873d137cca.js.map"
@@ -81,8 +85,8 @@
       "path---post-middle-end-developer-cc526bb6a17e44bde90a.js.map"
     ],
     "path---index": [
-      "path---index-435c6b7910b88bd53a6d.js",
-      "path---index-435c6b7910b88bd53a6d.js.map"
+      "path---index-ffa6b44f1b63e630c3f0.js",
+      "path---index-ffa6b44f1b63e630c3f0.js.map"
     ],
     "path---link-rss-feed": [
       "path---link-rss-feed-3264466d247454acfdf1.js",
@@ -141,16 +145,16 @@
       "path---link-my-approach-to-patternlab-mark-conroy-89ad74161359ec16593c.js.map"
     ],
     "path---post-twin-cities-drupal-camp-recap": [
-      "path---post-twin-cities-drupal-camp-recap-f4190f23410b5e85690a.js",
-      "path---post-twin-cities-drupal-camp-recap-f4190f23410b5e85690a.js.map"
+      "path---post-twin-cities-drupal-camp-recap-736fba5e9ea242cd94eb.js",
+      "path---post-twin-cities-drupal-camp-recap-736fba5e9ea242cd94eb.js.map"
     ],
     "path---post-texas-camp-recap": [
       "path---post-texas-camp-recap-f4b1a579e47aede43b1b.js",
       "path---post-texas-camp-recap-f4b1a579e47aede43b1b.js.map"
     ],
     "app": [
-      "app-e1664dfcfb15a32a182c.js",
-      "app-e1664dfcfb15a32a182c.js.map"
+      "app-16d67374df6fdd3aba3b.js",
+      "app-16d67374df6fdd3aba3b.js.map"
     ],
     "path---post-a-first-taste-of-netlify": [
       "path---post-a-first-taste-of-netlify-3ff1e23422666c251398.js",
