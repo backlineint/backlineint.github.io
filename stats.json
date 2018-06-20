@@ -20,6 +20,10 @@
       "component---src-templates-note-js-e7e03ff40b447fdd232e.js",
       "component---src-templates-note-js-e7e03ff40b447fdd232e.js.map"
     ],
+    "path---note-hot-jamstack-in-react-for-drupal-newsletter": [
+      "path---note-hot-jamstack-in-react-for-drupal-newsletter-3f233d502a3519e83db7.js",
+      "path---note-hot-jamstack-in-react-for-drupal-newsletter-3f233d502a3519e83db7.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-5780d2ab41355e4de16d.js",
       "component---src-pages-index-js-5780d2ab41355e4de16d.js.map"
@@ -85,8 +89,8 @@
       "path---post-middle-end-developer-cc526bb6a17e44bde90a.js.map"
     ],
     "path---index": [
-      "path---index-ffa6b44f1b63e630c3f0.js",
-      "path---index-ffa6b44f1b63e630c3f0.js.map"
+      "path---index-6cfa60e20920d5c8af25.js",
+      "path---index-6cfa60e20920d5c8af25.js.map"
     ],
     "path---link-rss-feed": [
       "path---link-rss-feed-3264466d247454acfdf1.js",
@@ -153,8 +157,8 @@
       "path---post-texas-camp-recap-f4b1a579e47aede43b1b.js.map"
     ],
     "app": [
-      "app-16d67374df6fdd3aba3b.js",
-      "app-16d67374df6fdd3aba3b.js.map"
+      "app-b2853ea3745a17eaaf44.js",
+      "app-b2853ea3745a17eaaf44.js.map"
     ],
     "path---post-a-first-taste-of-netlify": [
       "path---post-a-first-taste-of-netlify-3ff1e23422666c251398.js",
