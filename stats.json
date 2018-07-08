@@ -1,132 +1,148 @@
 {
   "assetsByChunkName": {
     "path---note-drupal-8-5-and-security-updates": [
-      "path---note-drupal-8-5-and-security-updates-9e0e729d631383b48a42.js",
-      "path---note-drupal-8-5-and-security-updates-9e0e729d631383b48a42.js.map"
+      "path---note-drupal-8-5-and-security-updates-8b3c11d596c943a0a9ff.js",
+      "path---note-drupal-8-5-and-security-updates-8b3c11d596c943a0a9ff.js.map"
     ],
     "path---note-recommended-pattern-lab-version-and-edition-for-drupal-integration": [
-      "path---note-recommended-pattern-lab-version-and-edition-for-drupal-integration-f9980e61e31becd32caa.js",
-      "path---note-recommended-pattern-lab-version-and-edition-for-drupal-integration-f9980e61e31becd32caa.js.map"
+      "path---note-recommended-pattern-lab-version-and-edition-for-drupal-integration-92c336feaccbe696999c.js",
+      "path---note-recommended-pattern-lab-version-and-edition-for-drupal-integration-92c336feaccbe696999c.js.map"
+    ],
+    "path---4": [
+      "path---4-b440de9453486c1eac9d.js",
+      "path---4-b440de9453486c1eac9d.js.map"
     ],
     "path---link-shop-talk-show-303-jam-stack-with-phil-hawksworth": [
-      "path---link-shop-talk-show-303-jam-stack-with-phil-hawksworth-a2a60b37780966ec75dc.js",
-      "path---link-shop-talk-show-303-jam-stack-with-phil-hawksworth-a2a60b37780966ec75dc.js.map"
+      "path---link-shop-talk-show-303-jam-stack-with-phil-hawksworth-3691f437ce88bda91759.js",
+      "path---link-shop-talk-show-303-jam-stack-with-phil-hawksworth-3691f437ce88bda91759.js.map"
     ],
     "path---link-io-west-is-shutting-down-next-week-splitsider": [
-      "path---link-io-west-is-shutting-down-next-week-splitsider-2fed156764a9811f3fa4.js",
-      "path---link-io-west-is-shutting-down-next-week-splitsider-2fed156764a9811f3fa4.js.map"
-    ],
-    "component---src-templates-note-js": [
-      "component---src-templates-note-js-e7e03ff40b447fdd232e.js",
-      "component---src-templates-note-js-e7e03ff40b447fdd232e.js.map"
+      "path---link-io-west-is-shutting-down-next-week-splitsider-59e00d51624eee22f784.js",
+      "path---link-io-west-is-shutting-down-next-week-splitsider-59e00d51624eee22f784.js.map"
     ],
     "path---note-hot-jamstack-in-react-for-drupal-newsletter": [
-      "path---note-hot-jamstack-in-react-for-drupal-newsletter-3f233d502a3519e83db7.js",
-      "path---note-hot-jamstack-in-react-for-drupal-newsletter-3f233d502a3519e83db7.js.map"
-    ],
-    "component---src-pages-index-js": [
-      "component---src-pages-index-js-5780d2ab41355e4de16d.js",
-      "component---src-pages-index-js-5780d2ab41355e4de16d.js.map"
+      "path---note-hot-jamstack-in-react-for-drupal-newsletter-cd0366894e8cccfdee8e.js",
+      "path---note-hot-jamstack-in-react-for-drupal-newsletter-cd0366894e8cccfdee8e.js.map"
     ],
     "path---link-heres-how-reacts-new-context-api-works-wes-bos": [
-      "path---link-heres-how-reacts-new-context-api-works-wes-bos-eed055b704eab4a3d0ac.js",
-      "path---link-heres-how-reacts-new-context-api-works-wes-bos-eed055b704eab4a3d0ac.js.map"
+      "path---link-heres-how-reacts-new-context-api-works-wes-bos-d3f2c604f4fd86d7f581.js",
+      "path---link-heres-how-reacts-new-context-api-works-wes-bos-d3f2c604f4fd86d7f581.js.map"
     ],
     "path---link-to-pesos-or-to-posse-dries-buytaert": [
-      "path---link-to-pesos-or-to-posse-dries-buytaert-3cb18fdaf0b6303dfbe3.js",
-      "path---link-to-pesos-or-to-posse-dries-buytaert-3cb18fdaf0b6303dfbe3.js.map"
-    ],
-    "component---src-templates-link-js": [
-      "component---src-templates-link-js-a70400de2ed53834f426.js",
-      "component---src-templates-link-js-a70400de2ed53834f426.js.map"
+      "path---link-to-pesos-or-to-posse-dries-buytaert-3731248f5b8b39581327.js",
+      "path---link-to-pesos-or-to-posse-dries-buytaert-3731248f5b8b39581327.js.map"
     ],
     "path---link-world-wide-wrist-ethan-marcotte": [
-      "path---link-world-wide-wrist-ethan-marcotte-3b9886dbdf5c56547bb8.js",
-      "path---link-world-wide-wrist-ethan-marcotte-3b9886dbdf5c56547bb8.js.map"
+      "path---link-world-wide-wrist-ethan-marcotte-73299e607c8495284a2a.js",
+      "path---link-world-wide-wrist-ethan-marcotte-73299e607c8495284a2a.js.map"
     ],
     "path---": [
       "path----70dd073fc245471edf3c.js",
       "path----70dd073fc245471edf3c.js.map"
     ],
     "path---note-gatsby-source-drupal-filters-by-published": [
-      "path---note-gatsby-source-drupal-filters-by-published-7f543420659e52523edd.js",
-      "path---note-gatsby-source-drupal-filters-by-published-7f543420659e52523edd.js.map"
+      "path---note-gatsby-source-drupal-filters-by-published-3da23d50bd3cb4b94f71.js",
+      "path---note-gatsby-source-drupal-filters-by-published-3da23d50bd3cb4b94f71.js.map"
     ],
     "path---post-building-something-from-nothing": [
       "path---post-building-something-from-nothing-27bba27c78ef49ef15da.js",
       "path---post-building-something-from-nothing-27bba27c78ef49ef15da.js.map"
     ],
     "path---link-tome-a-drupal-8-static-site-generator": [
-      "path---link-tome-a-drupal-8-static-site-generator-180df97ede78770f94a6.js",
-      "path---link-tome-a-drupal-8-static-site-generator-180df97ede78770f94a6.js.map"
+      "path---link-tome-a-drupal-8-static-site-generator-004a52bc8383338b8582.js",
+      "path---link-tome-a-drupal-8-static-site-generator-004a52bc8383338b8582.js.map"
+    ],
+    "path---5": [
+      "path---5-70d7a8cc68fbadbe9e47.js",
+      "path---5-70d7a8cc68fbadbe9e47.js.map"
     ],
     "path---link-my-struggle-to-learn-react-brad-frost": [
-      "path---link-my-struggle-to-learn-react-brad-frost-d6b0b6abd3873d137cca.js",
-      "path---link-my-struggle-to-learn-react-brad-frost-d6b0b6abd3873d137cca.js.map"
+      "path---link-my-struggle-to-learn-react-brad-frost-17e25108488febf02ec9.js",
+      "path---link-my-struggle-to-learn-react-brad-frost-17e25108488febf02ec9.js.map"
     ],
     "path---link-no-more-guns-please": [
-      "path---link-no-more-guns-please-0768a2873b7725d52b42.js",
-      "path---link-no-more-guns-please-0768a2873b7725d52b42.js.map"
+      "path---link-no-more-guns-please-0acc52461d645bbcc79f.js",
+      "path---link-no-more-guns-please-0acc52461d645bbcc79f.js.map"
+    ],
+    "component---src-templates-index-js": [
+      "component---src-templates-index-js-47c333293cebdb2d68bf.js",
+      "component---src-templates-index-js-47c333293cebdb2d68bf.js.map"
     ],
     "path---note-css-tricks-rabbit-hole": [
-      "path---note-css-tricks-rabbit-hole-bb0fa635448a38cf8df6.js",
-      "path---note-css-tricks-rabbit-hole-bb0fa635448a38cf8df6.js.map"
+      "path---note-css-tricks-rabbit-hole-e82f5c6165674cd4c5c3.js",
+      "path---note-css-tricks-rabbit-hole-e82f5c6165674cd4c5c3.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-3b1791efb252d81ccd39.js",
-      "component---src-layouts-index-js-3b1791efb252d81ccd39.js.map"
+      "component---src-layouts-index-js-69c0e3df413b0e2ad323.js",
+      "component---src-layouts-index-js-69c0e3df413b0e2ad323.js.map"
     ],
     "path---link-designer-oriented-styles-james-kyle": [
-      "path---link-designer-oriented-styles-james-kyle-e87052bd75d3fcea1294.js",
-      "path---link-designer-oriented-styles-james-kyle-e87052bd75d3fcea1294.js.map"
+      "path---link-designer-oriented-styles-james-kyle-ac87f9dbb9a5af462a93.js",
+      "path---link-designer-oriented-styles-james-kyle-ac87f9dbb9a5af462a93.js.map"
+    ],
+    "path---8": [
+      "path---8-d157e199e38e5cad18bf.js",
+      "path---8-d157e199e38e5cad18bf.js.map"
     ],
     "path---link-my-del-close-marathon-memories": [
-      "path---link-my-del-close-marathon-memories-598f6546873a06653318.js",
-      "path---link-my-del-close-marathon-memories-598f6546873a06653318.js.map"
+      "path---link-my-del-close-marathon-memories-f562c5a8e21c799c4d36.js",
+      "path---link-my-del-close-marathon-memories-f562c5a8e21c799c4d36.js.map"
     ],
     "path---link-accommodating-drupal-in-your-components": [
-      "path---link-accommodating-drupal-in-your-components-fdf63cb1115f3a9d7001.js",
-      "path---link-accommodating-drupal-in-your-components-fdf63cb1115f3a9d7001.js.map"
+      "path---link-accommodating-drupal-in-your-components-dc9ca21ff98b0868fdc1.js",
+      "path---link-accommodating-drupal-in-your-components-dc9ca21ff98b0868fdc1.js.map"
+    ],
+    "path---7": [
+      "path---7-d3f1cdd779fddc10234c.js",
+      "path---7-d3f1cdd779fddc10234c.js.map"
     ],
     "path---post-middle-end-developer": [
       "path---post-middle-end-developer-cc526bb6a17e44bde90a.js",
       "path---post-middle-end-developer-cc526bb6a17e44bde90a.js.map"
     ],
     "path---index": [
-      "path---index-dd38824fb61556683167.js",
-      "path---index-dd38824fb61556683167.js.map"
+      "path---index-166a35feb7fe167b0118.js",
+      "path---index-166a35feb7fe167b0118.js.map"
     ],
     "path---link-rss-feed": [
-      "path---link-rss-feed-3264466d247454acfdf1.js",
-      "path---link-rss-feed-3264466d247454acfdf1.js.map"
+      "path---link-rss-feed-91f03ce2c2a0514e741e.js",
+      "path---link-rss-feed-91f03ce2c2a0514e741e.js.map"
     ],
     "path---post-looking-forward-to-drupalcon-nashville": [
       "path---post-looking-forward-to-drupalcon-nashville-25b7175488bafb953727.js",
       "path---post-looking-forward-to-drupalcon-nashville-25b7175488bafb953727.js.map"
     ],
     "path---note-jquery-and-drupal-8-4-upgrades": [
-      "path---note-jquery-and-drupal-8-4-upgrades-2d00e234b055d4741be6.js",
-      "path---note-jquery-and-drupal-8-4-upgrades-2d00e234b055d4741be6.js.map"
+      "path---note-jquery-and-drupal-8-4-upgrades-29b32ad7b8b11c91a9d6.js",
+      "path---note-jquery-and-drupal-8-4-upgrades-29b32ad7b8b11c91a9d6.js.map"
     ],
     "path---post-midcamp-2018-thoughts": [
       "path---post-midcamp-2018-thoughts-6ade6a5a4bfc420da5ef.js",
       "path---post-midcamp-2018-thoughts-6ade6a5a4bfc420da5ef.js.map"
     ],
+    "path---2": [
+      "path---2-e200eda772601f90c681.js",
+      "path---2-e200eda772601f90c681.js.map"
+    ],
+    "path---6": [
+      "path---6-e3485c8cfee26abc5b14.js",
+      "path---6-e3485c8cfee26abc5b14.js.map"
+    ],
     "path---link-nintendo-labo": [
-      "path---link-nintendo-labo-b6c7c9c78709f7d8e5d1.js",
-      "path---link-nintendo-labo-b6c7c9c78709f7d8e5d1.js.map"
+      "path---link-nintendo-labo-420b6026fea716607e2e.js",
+      "path---link-nintendo-labo-420b6026fea716607e2e.js.map"
     ],
     "commons": [
-      "commons-b824d731726764527a40.js",
-      "commons-b824d731726764527a40.js.map"
+      "commons-274b3f72ab959d98e95a.js",
+      "commons-274b3f72ab959d98e95a.js.map"
     ],
     "path---post-decoupled-drupal-dumb-problems-malformed-markup": [
       "path---post-decoupled-drupal-dumb-problems-malformed-markup-343dfb7def48af3203f2.js",
       "path---post-decoupled-drupal-dumb-problems-malformed-markup-343dfb7def48af3203f2.js.map"
     ],
     "path---link-when-not-to-use-a-design-system-sparkbox": [
-      "path---link-when-not-to-use-a-design-system-sparkbox-4a655f4909d5a3e5a9c6.js",
-      "path---link-when-not-to-use-a-design-system-sparkbox-4a655f4909d5a3e5a9c6.js.map"
+      "path---link-when-not-to-use-a-design-system-sparkbox-783c9aa88780b62e314f.js",
+      "path---link-when-not-to-use-a-design-system-sparkbox-783c9aa88780b62e314f.js.map"
     ],
     "path---post-ui-patterns-pattern-lab-and-a-call-for-help": [
       "path---post-ui-patterns-pattern-lab-and-a-call-for-help-43d3eea14dd6a0ae2907.js",
@@ -140,25 +156,29 @@
       "path---post-my-brief-unretirement-from-comedy-8d930bb9151749c1178e.js",
       "path---post-my-brief-unretirement-from-comedy-8d930bb9151749c1178e.js.map"
     ],
+    "path---3": [
+      "path---3-7d48af6e479c3859862e.js",
+      "path---3-7d48af6e479c3859862e.js.map"
+    ],
     "path---note-drupalcon-nashville-in-a-photo": [
-      "path---note-drupalcon-nashville-in-a-photo-de6025a5c900bf8b22f4.js",
-      "path---note-drupalcon-nashville-in-a-photo-de6025a5c900bf8b22f4.js.map"
+      "path---note-drupalcon-nashville-in-a-photo-c115919c270ddcf115fd.js",
+      "path---note-drupalcon-nashville-in-a-photo-c115919c270ddcf115fd.js.map"
     ],
     "path---post-sometimes-a-recruiter-reminds-you-that-your-pet-died": [
       "path---post-sometimes-a-recruiter-reminds-you-that-your-pet-died-ee778cd6b953e9e7991b.js",
       "path---post-sometimes-a-recruiter-reminds-you-that-your-pet-died-ee778cd6b953e9e7991b.js.map"
     ],
     "path---link-drupaleasy-podcast-205-fatima-khalid-first-time-sprinters-guide": [
-      "path---link-drupaleasy-podcast-205-fatima-khalid-first-time-sprinters-guide-cd4e9f987967bb7cb732.js",
-      "path---link-drupaleasy-podcast-205-fatima-khalid-first-time-sprinters-guide-cd4e9f987967bb7cb732.js.map"
+      "path---link-drupaleasy-podcast-205-fatima-khalid-first-time-sprinters-guide-69fb76b0956ee064768a.js",
+      "path---link-drupaleasy-podcast-205-fatima-khalid-first-time-sprinters-guide-69fb76b0956ee064768a.js.map"
     ],
     "component---src-templates-post-js": [
-      "component---src-templates-post-js-330eb50be798f05efaf7.js",
-      "component---src-templates-post-js-330eb50be798f05efaf7.js.map"
+      "component---src-templates-post-js-d7147f724d430a73ce94.js",
+      "component---src-templates-post-js-d7147f724d430a73ce94.js.map"
     ],
     "path---link-my-approach-to-patternlab-mark-conroy": [
-      "path---link-my-approach-to-patternlab-mark-conroy-89ad74161359ec16593c.js",
-      "path---link-my-approach-to-patternlab-mark-conroy-89ad74161359ec16593c.js.map"
+      "path---link-my-approach-to-patternlab-mark-conroy-b7e94e1f0fa09d3024ce.js",
+      "path---link-my-approach-to-patternlab-mark-conroy-b7e94e1f0fa09d3024ce.js.map"
     ],
     "path---post-twin-cities-drupal-camp-recap": [
       "path---post-twin-cities-drupal-camp-recap-736fba5e9ea242cd94eb.js",
@@ -168,9 +188,13 @@
       "path---post-texas-camp-recap-f4b1a579e47aede43b1b.js",
       "path---post-texas-camp-recap-f4b1a579e47aede43b1b.js.map"
     ],
+    "path---9": [
+      "path---9-c9b74bbf948317e0cc91.js",
+      "path---9-c9b74bbf948317e0cc91.js.map"
+    ],
     "app": [
-      "app-17980c4952eced696e7b.js",
-      "app-17980c4952eced696e7b.js.map"
+      "app-88cf3be8c68ef4d0d6a0.js",
+      "app-88cf3be8c68ef4d0d6a0.js.map"
     ],
     "path---post-a-first-taste-of-netlify": [
       "path---post-a-first-taste-of-netlify-3ff1e23422666c251398.js",
@@ -185,20 +209,20 @@
       "path---post-my-re-retirement-from-comedy-621d00eb4f1c2af85120.js.map"
     ],
     "path---note-chicagoland-half-marathon-2018": [
-      "path---note-chicagoland-half-marathon-2018-541b25eb527d248d2206.js",
-      "path---note-chicagoland-half-marathon-2018-541b25eb527d248d2206.js.map"
+      "path---note-chicagoland-half-marathon-2018-3193215afc7c8570667e.js",
+      "path---note-chicagoland-half-marathon-2018-3193215afc7c8570667e.js.map"
     ],
     "path---post-midcamp-needs-your-help": [
       "path---post-midcamp-needs-your-help-fc99d1708278456e9efe.js",
       "path---post-midcamp-needs-your-help-fc99d1708278456e9efe.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-465fca36e56ab090a4d5.js",
-      "component---src-pages-about-js-465fca36e56ab090a4d5.js.map"
+      "component---src-pages-about-js-f65315fd60599ee8574e.js",
+      "component---src-pages-about-js-f65315fd60599ee8574e.js.map"
     ],
     "path---note-celeste": [
-      "path---note-celeste-e6d79948c936e1249a46.js",
-      "path---note-celeste-e6d79948c936e1249a46.js.map"
+      "path---note-celeste-0ddb48ff0092cd329c3a.js",
+      "path---note-celeste-0ddb48ff0092cd329c3a.js.map"
     ],
     "path---post-drupalcon-nashville-session-proposals": [
       "path---post-drupalcon-nashville-session-proposals-eed84de70aaec8ce882c.js",
@@ -209,12 +233,12 @@
       "path---about-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---link-react-for-drupal": [
-      "path---link-react-for-drupal-c892399fc23e2e9e84bf.js",
-      "path---link-react-for-drupal-c892399fc23e2e9e84bf.js.map"
+      "path---link-react-for-drupal-9bd12d3a350b1387e8b9.js",
+      "path---link-react-for-drupal-9bd12d3a350b1387e8b9.js.map"
     ],
     "path---link-r-u-talkin-r-e-m-re-me": [
-      "path---link-r-u-talkin-r-e-m-re-me-49add5d0163f78b14e3b.js",
-      "path---link-r-u-talkin-r-e-m-re-me-49add5d0163f78b14e3b.js.map"
+      "path---link-r-u-talkin-r-e-m-re-me-b1f5772b728d08e3a0ec.js",
+      "path---link-r-u-talkin-r-e-m-re-me-b1f5772b728d08e3a0ec.js.map"
     ]
   }
 }
