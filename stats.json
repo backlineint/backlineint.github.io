@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---10": [
-      "path---10-10a009206f4a27259d68.js",
-      "path---10-10a009206f4a27259d68.js.map"
+      "path---10-7bd25c1df09ca0e46272.js",
+      "path---10-7bd25c1df09ca0e46272.js.map"
     ],
     "path---post-weeknotes-1": [
       "path---post-weeknotes-1-f805a2c43c5730398bfa.js",
@@ -21,8 +21,8 @@
       "path---note-recommended-pattern-lab-version-and-edition-for-drupal-integration-f9980e61e31becd32caa.js.map"
     ],
     "path---4": [
-      "path---4-f4521a869c654d1230f0.js",
-      "path---4-f4521a869c654d1230f0.js.map"
+      "path---4-c38d9daf02c7f2e14b8d.js",
+      "path---4-c38d9daf02c7f2e14b8d.js.map"
     ],
     "path---link-shop-talk-show-303-jam-stack-with-phil-hawksworth": [
       "path---link-shop-talk-show-303-jam-stack-with-phil-hawksworth-b3cc3c305da3307f6973.js",
@@ -53,8 +53,8 @@
       "path---link-heres-how-reacts-new-context-api-works-wes-bos-4de685d98a4e8d987a50.js.map"
     ],
     "path---link-how-did-this-get-made-rad-live": [
-      "path---link-how-did-this-get-made-rad-live-d945664c753b1f2f1138.js",
-      "path---link-how-did-this-get-made-rad-live-d945664c753b1f2f1138.js.map"
+      "path---link-how-did-this-get-made-rad-live-2e9187bfbb099ac2a446.js",
+      "path---link-how-did-this-get-made-rad-live-2e9187bfbb099ac2a446.js.map"
     ],
     "path---link-to-pesos-or-to-posse-dries-buytaert": [
       "path---link-to-pesos-or-to-posse-dries-buytaert-68c74aa6486e61b5618c.js",
@@ -89,8 +89,8 @@
       "path---link-tome-a-drupal-8-static-site-generator-97ed32817d03f45146b1.js.map"
     ],
     "path---5": [
-      "path---5-fcaf8599222b4877bbaf.js",
-      "path---5-fcaf8599222b4877bbaf.js.map"
+      "path---5-93d8c81ad4d0fb0f5c09.js",
+      "path---5-93d8c81ad4d0fb0f5c09.js.map"
     ],
     "path---link-my-struggle-to-learn-react-brad-frost": [
       "path---link-my-struggle-to-learn-react-brad-frost-86cd9d307fa263e82233.js",
@@ -113,16 +113,20 @@
       "path---note-css-tricks-rabbit-hole-bb0fa635448a38cf8df6.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-2988fb1ce46eb91aa4aa.js",
-      "component---src-layouts-index-js-2988fb1ce46eb91aa4aa.js.map"
+      "component---src-layouts-index-js-c7592c6abf60bcaf0acf.js",
+      "component---src-layouts-index-js-c7592c6abf60bcaf0acf.js.map"
     ],
     "path---link-designer-oriented-styles-james-kyle": [
       "path---link-designer-oriented-styles-james-kyle-c3fd7e882f83d08c059c.js",
       "path---link-designer-oriented-styles-james-kyle-c3fd7e882f83d08c059c.js.map"
     ],
+    "path---post-weeknotes-2": [
+      "path---post-weeknotes-2-c087588466e8cc30da9b.js",
+      "path---post-weeknotes-2-c087588466e8cc30da9b.js.map"
+    ],
     "path---8": [
-      "path---8-6cc92e3eaf4c34c3536d.js",
-      "path---8-6cc92e3eaf4c34c3536d.js.map"
+      "path---8-0d61106f743316fe8aa0.js",
+      "path---8-0d61106f743316fe8aa0.js.map"
     ],
     "path---post-flip-grip-mini-review": [
       "path---post-flip-grip-mini-review-465b87e52f6af8f9dfed.js",
@@ -137,16 +141,16 @@
       "path---link-accommodating-drupal-in-your-components-9a7a4ac0ec23b676a9f1.js.map"
     ],
     "path---7": [
-      "path---7-ad8709397003084c6fa7.js",
-      "path---7-ad8709397003084c6fa7.js.map"
+      "path---7-215259f6c17cb7f8eccb.js",
+      "path---7-215259f6c17cb7f8eccb.js.map"
     ],
     "path---post-middle-end-developer": [
       "path---post-middle-end-developer-cc526bb6a17e44bde90a.js",
       "path---post-middle-end-developer-cc526bb6a17e44bde90a.js.map"
     ],
     "path---index": [
-      "path---index-ba9fe717da8c0ed11603.js",
-      "path---index-ba9fe717da8c0ed11603.js.map"
+      "path---index-31458c60ca7517999db7.js",
+      "path---index-31458c60ca7517999db7.js.map"
     ],
     "path---link-rss-feed": [
       "path---link-rss-feed-cfc3d5f7c3d8239d8092.js",
@@ -165,12 +169,12 @@
       "path---post-midcamp-2018-thoughts-6ade6a5a4bfc420da5ef.js.map"
     ],
     "path---2": [
-      "path---2-3d5b853de8bc4ec6b84e.js",
-      "path---2-3d5b853de8bc4ec6b84e.js.map"
+      "path---2-2fa17605985b590dbfb1.js",
+      "path---2-2fa17605985b590dbfb1.js.map"
     ],
     "path---6": [
-      "path---6-f29c1318d5fbd9d906c5.js",
-      "path---6-f29c1318d5fbd9d906c5.js.map"
+      "path---6-c7c75fe60f835916674a.js",
+      "path---6-c7c75fe60f835916674a.js.map"
     ],
     "path---link-nintendo-labo": [
       "path---link-nintendo-labo-78d68bf28259758f48a0.js",
@@ -197,24 +201,24 @@
       "path---post-ui-patterns-pattern-lab-and-a-call-for-help-43d3eea14dd6a0ae2907.js.map"
     ],
     "path---12": [
-      "path---12-edd62123765d803ba6f1.js",
-      "path---12-edd62123765d803ba6f1.js.map"
+      "path---12-e5efafa4a411f99fb8a7.js",
+      "path---12-e5efafa4a411f99fb8a7.js.map"
     ],
     "path---11": [
-      "path---11-e669ac7cbd0fadaf5c5b.js",
-      "path---11-e669ac7cbd0fadaf5c5b.js.map"
+      "path---11-70bec4a0a3dbcb3ab262.js",
+      "path---11-70bec4a0a3dbcb3ab262.js.map"
     ],
     "path---post-design-4-drupal-recap": [
-      "path---post-design-4-drupal-recap-e205aca82930f9505c0e.js",
-      "path---post-design-4-drupal-recap-e205aca82930f9505c0e.js.map"
+      "path---post-design-4-drupal-recap-0707e2c03a61f3b4c92b.js",
+      "path---post-design-4-drupal-recap-0707e2c03a61f3b4c92b.js.map"
     ],
     "path---post-my-brief-unretirement-from-comedy": [
       "path---post-my-brief-unretirement-from-comedy-8d930bb9151749c1178e.js",
       "path---post-my-brief-unretirement-from-comedy-8d930bb9151749c1178e.js.map"
     ],
     "path---3": [
-      "path---3-f3175bbee8e9630dd365.js",
-      "path---3-f3175bbee8e9630dd365.js.map"
+      "path---3-3af2375a35445ce22811.js",
+      "path---3-3af2375a35445ce22811.js.map"
     ],
     "path---note-drupalcon-nashville-in-a-photo": [
       "path---note-drupalcon-nashville-in-a-photo-de6025a5c900bf8b22f4.js",
@@ -241,24 +245,24 @@
       "path---link-my-approach-to-patternlab-mark-conroy-1b6636895fe583cf479a.js.map"
     ],
     "path---post-twin-cities-drupal-camp-recap": [
-      "path---post-twin-cities-drupal-camp-recap-736fba5e9ea242cd94eb.js",
-      "path---post-twin-cities-drupal-camp-recap-736fba5e9ea242cd94eb.js.map"
+      "path---post-twin-cities-drupal-camp-recap-7f44814a34a5de61db2e.js",
+      "path---post-twin-cities-drupal-camp-recap-7f44814a34a5de61db2e.js.map"
     ],
     "path---post-texas-camp-recap": [
       "path---post-texas-camp-recap-f4b1a579e47aede43b1b.js",
       "path---post-texas-camp-recap-f4b1a579e47aede43b1b.js.map"
     ],
     "path---9": [
-      "path---9-568ac0f9026e54860840.js",
-      "path---9-568ac0f9026e54860840.js.map"
+      "path---9-5075997e2e8756cdc76c.js",
+      "path---9-5075997e2e8756cdc76c.js.map"
     ],
     "path---link-in-the-garage-joyce-manor-share-the-scenes-and-stories-behind-million-dollars-to-kill-me": [
       "path---link-in-the-garage-joyce-manor-share-the-scenes-and-stories-behind-million-dollars-to-kill-me-80476c6ff2fa5311dbdf.js",
       "path---link-in-the-garage-joyce-manor-share-the-scenes-and-stories-behind-million-dollars-to-kill-me-80476c6ff2fa5311dbdf.js.map"
     ],
     "app": [
-      "app-efb12a913d33e4b73c84.js",
-      "app-efb12a913d33e4b73c84.js.map"
+      "app-18d0ac6f572dc798aa8f.js",
+      "app-18d0ac6f572dc798aa8f.js.map"
     ],
     "path---note-beach": [
       "path---note-beach-5ab268e9f7c4ecce4694.js",
@@ -273,16 +277,16 @@
       "path---post-a-first-taste-of-netlify-3ff1e23422666c251398.js.map"
     ],
     "path---post-my-takeaways-from-drupalcon-nashville": [
-      "path---post-my-takeaways-from-drupalcon-nashville-120a56403ab990b72d8b.js",
-      "path---post-my-takeaways-from-drupalcon-nashville-120a56403ab990b72d8b.js.map"
+      "path---post-my-takeaways-from-drupalcon-nashville-d96c2743271916ded3d6.js",
+      "path---post-my-takeaways-from-drupalcon-nashville-d96c2743271916ded3d6.js.map"
     ],
     "path---post-my-re-retirement-from-comedy": [
       "path---post-my-re-retirement-from-comedy-621d00eb4f1c2af85120.js",
       "path---post-my-re-retirement-from-comedy-621d00eb4f1c2af85120.js.map"
     ],
     "path---note-chicagoland-half-marathon-2018": [
-      "path---note-chicagoland-half-marathon-2018-670f6389e7b00001d92d.js",
-      "path---note-chicagoland-half-marathon-2018-670f6389e7b00001d92d.js.map"
+      "path---note-chicagoland-half-marathon-2018-541b25eb527d248d2206.js",
+      "path---note-chicagoland-half-marathon-2018-541b25eb527d248d2206.js.map"
     ],
     "path---post-midcamp-needs-your-help": [
       "path---post-midcamp-needs-your-help-fc99d1708278456e9efe.js",
